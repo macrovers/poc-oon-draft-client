@@ -1,0 +1,116 @@
+{
+  "biryanirecipes": [
+    {
+      "id": "1",
+      "title": "Ambur Biryani",
+      "ingredients": [
+        "500gms Onion",
+        "500gms Tomato",
+        "5kgs Chicken",
+        "100ml Ghee"
+      ],
+      "logo": "A",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cR_lCMXmgj2I9k807VNZxLN4xLmUFknXZA&usqp=CAU",
+      "date": "20-01-2000",
+      "description": "Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+      "method": "1. Prepare the base for the biryani. 2. Add the chicken and saute them till brown. 3. Cook till all the chicken and other ingredients come to a gravy consistency. 4. Add 5kg soaked basmati rice and add water till both the rice and masala are at the same level. 5. Cook till done and serve.",
+      "cookingTime": "65 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Thalapakatti Biryani",
+      "ingredients": [
+        "500gms Onion",
+        "500gms Tomato",
+        "5kgs Mutton",
+        "100ml Ghee"
+      ],
+      "logo": "T",
+      "image": "https://butteroverbae.com/wp-content/uploads/2020/10/karachi-chicken-biryani-11-735x735.jpg",
+      "date": "20-01-2000",
+      "description": "Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+      "method": "1. Prepare the base for the biryani. 2. Add the mutton and saute them till brown. 3. Cook till all the chicken and other ingredients come to a gravy consistency. 4. Add 5kg soaked basmati rice and add water till both the rice and masala are at the same level. 5. Cook till done and serve.",
+      "cookingTime": "65 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Madras Biryani",
+      "ingredients": [
+        "500gms Onion",
+        "500gms Tomato",
+        "5kgs Chicken",
+        "100ml Ghee"
+      ],
+      "logo": "M",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohAK_XfwcfOpSN5RvvtGwaKnjCiE9RVjXRA&usqp=CAU",
+      "date": "20-01-2000",
+      "description": "Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+      "method": "1. Prepare the base for the biryani. 2. Add the chicken and saute them till brown. 3. Cook till all the chicken and other ingredients come to a gravy consistency. 4. Add 5kg soaked basmati rice and add water till both the rice and masala are at the same level. 5. Cook till done and serve.",
+      "cookingTime": "65 minutes"
+    },
+    {
+      "id": "4",
+      "title": "Aaachi Biryani",
+      "ingredients": [
+        "500gms Onion",
+        "500gms Tomato",
+        "5kgs Chicken",
+        "100ml Ghee"
+      ],
+      "logo": "M",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohAK_XfwcfOpSN5RvvtGwaKnjCiE9RVjXRA&usqp=CAU",
+      "date": "20-01-2000",
+      "description": "Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+      "method": "1. Prepare the base for the biryani. 2. Add the chicken and saute them till brown. 3. Cook till all the chicken and other ingredients come to a gravy consistency. 4. Add 5kg soaked basmati rice and add water till both the rice and masala are at the same level. 5. Cook till done and serve.",
+      "cookingTime": "65 minutes"
+    },
+    {
+      "id": "5",
+      "title": "Thalassery Biryani",
+      "ingredients": [
+        "500gms Onion",
+        "500gms Tomato",
+        "5kgs Chicken",
+        "100ml Ghee"
+      ],
+      "logo": "M",
+      "image": "https://butteroverbae.com/wp-content/uploads/2020/10/karachi-chicken-biryani-11-735x735.jpg",
+      "date": "20-01-2000",
+      "description": "Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+      "method": "1. Prepare the base for the biryani. 2. Add the chicken and saute them till brown. 3. Cook till all the chicken and other ingredients come to a gravy consistency. 4. Add 5kg soaked basmati rice and add water till both the rice and masala are at the same level. 5. Cook till done and serve.",
+      "cookingTime": "65 minutes"
+    },
+    {
+      "id": "6",
+      "title": "Calicut Biryani",
+      "ingredients": [
+        "500gms Onion",
+        "500gms Tomato",
+        "5kgs Chicken",
+        "100ml Ghee"
+      ],
+      "logo": "M",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohAK_XfwcfOpSN5RvvtGwaKnjCiE9RVjXRA&usqp=CAU",
+      "date": "20-01-2000",
+      "description": "Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+      "method": "1. Prepare the base for the biryani. 2. Add the chicken and saute them till brown. 3. Cook till all the chicken and other ingredients come to a gravy consistency. 4. Add 5kg soaked basmati rice and add water till both the rice and masala are at the same level. 5. Cook till done and serve.",
+      "cookingTime": "65 minutes"
+    },
+    {
+      "id": "1",
+      "title": "Ambur Biryani",
+      "ingredients": [
+        "500gms Onion",
+        "500gms Tomato",
+        "5kgs Chicken",
+        "100ml Ghee"
+      ],
+      "logo": "A",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cR_lCMXmgj2I9k807VNZxLN4xLmUFknXZA&usqp=CAU",
+      "date": "20-01-2000",
+      "description": "Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. The bottom layer of rice absorbs all the chicken juices as it cooks, giving it a tender texture and rich flavor, while the top layer of rice turns out white and fluffy.",
+      "method": "1. Prepare the base for the biryani. 2. Add the chicken and saute them till brown. 3. Cook till all the chicken and other ingredients come to a gravy consistency. 4. Add 5kg soaked basmati rice and add water till both the rice and masala are at the same level. 5. Cook till done and serve.",
+      "cookingTime": "65 minutes"
+    }
+  ]
+}

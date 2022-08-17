@@ -1,0 +1,65 @@
+.navbar {
+    background: #198754;
+    padding: 15px;
+}
+
+.nav {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    /* or 1200px - change later */
+    margin: 0 auto;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.nav-left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.nav-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* a because it is a Link tag means a tag in normal html */
+.navbar a.brand {
+    color: #fff;
+    text-decoration: none;
+    border: none;
+}
+
+.navbar a.nav-add {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 4rem;
+}
+
+.navbar a.nav-add:hover {
+    background: #fff;
+    color: #198754;
+}
+
+.nav-item-register {
+    color: #198754;
+    background-color: #fff;
+    text-decoration: none;
+    padding: 8px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 1rem;
+}
+
+.navbar a.nav-item-register:hover {
+    color: #fff;
+    background: #198754;
+}

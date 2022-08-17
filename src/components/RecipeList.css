@@ -1,0 +1,9 @@
+.recipeCard {
+    border-radius: 7px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+    transition: transform 500ms ease;
+}
+
+.recipeCard:hover {
+    transform: scale(1.025)
+}
